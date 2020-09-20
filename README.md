@@ -6,7 +6,7 @@ Get started with Competitive Programming to make you stand out from the crowd an
 - [Why Competitive Programming necessary?](https://youtu.be/XNznvoVU7ws)
 
 ### Requirements
-- [Anyone Lrogramming Language](https://github.com/TheByteSlash/Programming-Languages)
+- [Anyone Programming Language](https://github.com/TheByteSlash/Programming-Languages)
 - [Data Structures and Algorithms](https://github.com/TheByteSlash/Data-Structures-and-Algorithms)
 
 ### Websites for Competitive Programming
